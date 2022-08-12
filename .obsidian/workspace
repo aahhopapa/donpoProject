@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "f0bb26f1b47ff9e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "76622b478655a494",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ccf4c655fc9be32",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a02a72e252490c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6599669e8f35681",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "db5e4fa06d4777a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f30c1b178faeba72",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ba6d4816ed015e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7105b5200aecb07c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f9bc8f60530f9fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe6207fe55dfcf74",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1bbd0966aa1845e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "696d71be7c692d00",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a6599669e8f35681",
+  "lastOpenFiles": [
+    "테스트파일2ㅡ대호.md",
+    "테스트파일-희경.md",
+    "02.영구메모/온페이지 작성법.md",
+    "테스트파일ㅡ대호.md",
+    "01.임시메모/테스트1.md",
+    "99.Template/Zettelkasten.md",
+    "98.img/온페이지 작성법/03.png",
+    "98.img/온페이지 작성법/02.png",
+    "98.img/온페이지 작성법/01.png"
+  ]
+}

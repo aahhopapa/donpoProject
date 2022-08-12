@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "f0bb26f1b47ff9e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "76622b478655a494",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01.임시메모/테스트1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb28c78dab543f1a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8958317df515ce81",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "609daeee8bab2177",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b8630fe2190449ea",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "57ee2899bfc7031a",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a5e5756dff3ed027",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4bb573e2561de019",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "01.임시메모/테스트1.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "679bfcf30cc6f474",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "01.임시메모/테스트1.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "507e6ac424efcfae",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "01.임시메모/테스트1.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "76622b478655a494",
+  "lastOpenFiles": [
+    "01.임시메모/테스트2.md",
+    "01.임시메모/테스트1.md",
+    "Template/Zettelkasten.md",
+    "테스트파일-희경.md",
+    "테스트파일2ㅡ대호.md",
+    "테스트파일ㅡ대호.md",
+    "img/온페이지/03.png",
+    "img/온페이지/02.png",
+    "img/온페이지/01.png"
+  ]
+}
