@@ -7,8 +7,12 @@
         "id": "76622b478655a494",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "02.영구메모/온페이지 작성법.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02.영구메모/온페이지 작성법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02.영구메모/온페이지 작성법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02.영구메모/온페이지 작성법.md"
+              }
             }
           }
         ]
@@ -120,16 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a6599669e8f35681",
+  "active": "76622b478655a494",
   "lastOpenFiles": [
+    "99.Template/Zettelkasten.md",
+    "01.임시메모/테스트2.md",
+    "01.임시메모/정대호/무제노트.md",
     "테스트파일2ㅡ대호.md",
     "테스트파일-희경.md",
     "02.영구메모/온페이지 작성법.md",
     "테스트파일ㅡ대호.md",
     "01.임시메모/테스트1.md",
-    "99.Template/Zettelkasten.md",
     "98.img/온페이지 작성법/03.png",
-    "98.img/온페이지 작성법/02.png",
-    "98.img/온페이지 작성법/01.png"
+    "98.img/온페이지 작성법/02.png"
   ]
 }
