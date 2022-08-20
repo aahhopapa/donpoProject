@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02.영구메모/온페이지 작성법.md",
+            "file": "마크다운 모음.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.영구메모/온페이지 작성법.md",
+                "file": "마크다운 모음.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.영구메모/온페이지 작성법.md",
+                "file": "마크다운 모음.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.영구메모/온페이지 작성법.md"
+                "file": "마크다운 모음.md"
               }
             }
           }
@@ -130,12 +130,12 @@
   },
   "active": "76622b478655a494",
   "lastOpenFiles": [
+    "01.임시메모/정대호/온페이지 작성법.md",
     "99.Template/Zettelkasten.md",
     "01.임시메모/테스트2.md",
     "01.임시메모/정대호/무제노트.md",
     "테스트파일2ㅡ대호.md",
     "테스트파일-희경.md",
-    "02.영구메모/온페이지 작성법.md",
     "테스트파일ㅡ대호.md",
     "01.임시메모/테스트1.md",
     "98.img/온페이지 작성법/03.png",
