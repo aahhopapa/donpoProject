@@ -5,3 +5,9 @@ desktop.ini
 /99.Template/desktop.ini
 /98.img/desktop.ini
 /02.영구메모/desktop.ini
+/.git/desktop.ini
+/.git/hooks/desktop.ini
+/.git/info/desktop.ini
+/.git/logs/desktop.ini
+/.git/objects/desktop.ini
+/.git/refs/desktop.ini
